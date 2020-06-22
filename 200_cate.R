@@ -8,7 +8,7 @@ require("fBasics");require("MASS");require("survival");require("STAR")
 require("gamlss.dist");require("VGAM");library(rgl);library(ellipse)
 library(threejs);library(plotROC);library(ROCR);library(pROC)
 
-
+rrrrrrr
 #```{r Global, echo = FALSE}
 
 # Set the number of column of X and fix G
